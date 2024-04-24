@@ -1,0 +1,14 @@
+C:\Users\Marc Jersey Castro\School\Visual Basic\Projects\Nom U\NomU\bin\Debug\NomU.exe.config
+C:\Users\Marc Jersey Castro\School\Visual Basic\Projects\Nom U\NomU\bin\Debug\NomU.exe
+C:\Users\Marc Jersey Castro\School\Visual Basic\Projects\Nom U\NomU\bin\Debug\NomU.pdb
+C:\Users\Marc Jersey Castro\School\Visual Basic\Projects\Nom U\NomU\bin\Debug\NomU.xml
+C:\Users\Marc Jersey Castro\School\Visual Basic\Projects\Nom U\NomU\obj\Debug\NomU.vbproj.AssemblyReference.cache
+C:\Users\Marc Jersey Castro\School\Visual Basic\Projects\Nom U\NomU\obj\Debug\NomU.Form1.resources
+C:\Users\Marc Jersey Castro\School\Visual Basic\Projects\Nom U\NomU\obj\Debug\NomU.Resources.resources
+C:\Users\Marc Jersey Castro\School\Visual Basic\Projects\Nom U\NomU\obj\Debug\NomU.vbproj.GenerateResource.cache
+C:\Users\Marc Jersey Castro\School\Visual Basic\Projects\Nom U\NomU\obj\Debug\NomU.vbproj.CoreCompileInputs.cache
+C:\Users\Marc Jersey Castro\School\Visual Basic\Projects\Nom U\NomU\obj\Debug\NomU.exe
+C:\Users\Marc Jersey Castro\School\Visual Basic\Projects\Nom U\NomU\obj\Debug\NomU.xml
+C:\Users\Marc Jersey Castro\School\Visual Basic\Projects\Nom U\NomU\obj\Debug\NomU.pdb
+C:\Users\Marc Jersey Castro\School\Visual Basic\Projects\Nom U\NomU\obj\Debug\NomU.Form2.resources
+C:\Users\Marc Jersey Castro\School\Visual Basic\Projects\Nom U\NomU\obj\Debug\NomU.Form3.resources
