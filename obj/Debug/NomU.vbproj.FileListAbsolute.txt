@@ -12,3 +12,17 @@ C:\Users\Marc Jersey Castro\School\Visual Basic\Projects\Nom U\NomU\obj\Debug\No
 C:\Users\Marc Jersey Castro\School\Visual Basic\Projects\Nom U\NomU\obj\Debug\NomU.pdb
 C:\Users\Marc Jersey Castro\School\Visual Basic\Projects\Nom U\NomU\obj\Debug\NomU.Form2.resources
 C:\Users\Marc Jersey Castro\School\Visual Basic\Projects\Nom U\NomU\obj\Debug\NomU.Form3.resources
+D:\_Main\Git\Comprog\NomU\bin\Debug\NomU.exe.config
+D:\_Main\Git\Comprog\NomU\bin\Debug\NomU.exe
+D:\_Main\Git\Comprog\NomU\bin\Debug\NomU.pdb
+D:\_Main\Git\Comprog\NomU\bin\Debug\NomU.xml
+D:\_Main\Git\Comprog\NomU\obj\Debug\NomU.vbproj.AssemblyReference.cache
+D:\_Main\Git\Comprog\NomU\obj\Debug\NomU.Form1.resources
+D:\_Main\Git\Comprog\NomU\obj\Debug\NomU.Form2.resources
+D:\_Main\Git\Comprog\NomU\obj\Debug\NomU.Form3.resources
+D:\_Main\Git\Comprog\NomU\obj\Debug\NomU.Resources.resources
+D:\_Main\Git\Comprog\NomU\obj\Debug\NomU.vbproj.GenerateResource.cache
+D:\_Main\Git\Comprog\NomU\obj\Debug\NomU.vbproj.CoreCompileInputs.cache
+D:\_Main\Git\Comprog\NomU\obj\Debug\NomU.exe
+D:\_Main\Git\Comprog\NomU\obj\Debug\NomU.xml
+D:\_Main\Git\Comprog\NomU\obj\Debug\NomU.pdb
